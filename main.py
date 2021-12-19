@@ -30,7 +30,7 @@ The first argument, or 'input', is where you say your input Lambda-Calculas. Exa
 The second argument, or 'omicron' is where a boolean should be. Ex. True. What this means is that
 your telling the module wether or not you want to use λ (True); or lambda (False)""")
 
-a = convert("λx.2*x", True)
-a.run()
-print(a.result())
-a.help()
+# a = convert("λx.2*x", True)
+# a.run()
+# print(a.result())
+# a.help()
